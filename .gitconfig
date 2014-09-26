@@ -1,0 +1,7 @@
+[user]
+	name = Alexander Koshelapov
+	email = koshealex@gmail.com
+[color]
+	ui = true
+[core]
+	excludesfile = /Users/skosh/.gitignore
